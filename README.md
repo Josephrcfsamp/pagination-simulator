@@ -1,4 +1,4 @@
-# pagination-simulator
+# Pagination Simulator
 
 ## Description
 
