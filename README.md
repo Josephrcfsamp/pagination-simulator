@@ -37,4 +37,7 @@ paginate([1,2,3,4,5,6,7,8,9], 3, 3) // returns [7, 8, 9]
 
 ## License
 
-MIT License.
+## 🧾 License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for more information.
